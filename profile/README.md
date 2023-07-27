@@ -12,7 +12,7 @@
 ### Struktur
 
 Jedes Modul, welches für die BLL benötigt wird, wird als eigenes Repository angelegt. [Unten](#repositories) befindet sich eine Liste mit allen Repositories der Besonden Lernleistung.
-Um ein einheitliches System für Issues, PRs, Merges, Commits, etc. innerhalb der Organisation beizubehalten, gibt es [hier]()
+Um ein einheitliches System für Issues, PRs, Merges, Commits, etc. innerhalb der Organisation beizubehalten, gibt es [hier](../STYLEGUIDE.md).
 
 ---
 
