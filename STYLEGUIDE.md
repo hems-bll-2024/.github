@@ -7,7 +7,7 @@
 ### 1.1 Dateistruktur
 
 -   Jedes Repository **muss** eine README.md und LICENSE.md Datei beinhalten.
-    -   README.md Dateien **sollten** eine _möglichst_ genaue Aussage über Aufbau, Funktion und Verhalten der im Repository gespeichterten Datein wiedergeben.
+    -   README.md Dateien **sollten** eine _möglichst_ genaue Aussage über Aufbau, Funktion und Verhalten der im Repository gespeichterten Datein wiedergeben. Die Datei kann auch für bestimmte Zwecke sich _nicht_ im 'root'-Verzeichnis des Repositories befinden, sondern innerhalb eines eigenen Ordners.
     -   Die LICENSE.md Datei **muss** mit der LICENSE.md Datei im Repository [.github](https://github.com/hems-bll-2024/.github) übereinstimmen. (Aktuelle Lizenz: [BSD-3-Clause](https://joinup.ec.europa.eu/licence/bsd-3-clause-new-or-revised-license))
 -   Jedes Repository **sollte**, sofern es sich um 'Code' handelt, ein src Ordner beinhalten, in dem der komplette Quellcode enthalten ist.
 
